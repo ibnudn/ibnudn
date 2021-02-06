@@ -1,0 +1,576 @@
+{
+	"detail"	: [
+		{
+			"id"	: 1,
+			"name"	: "RSUD dr. Moewardi",
+			"type"	: "A",
+			"room"	: [
+				{
+					"class"	: "VVIP",
+					"capacity"	: 4,
+					"available"	: 2
+				},
+				{
+					"class"	: "VIP",
+					"capacity"	: 132,
+					"available"	: 43
+				},
+				{
+					"class"	: "Kelas I",
+					"capacity"	: 55,
+					"available"	: 17
+				},
+				{
+					"class"	: "Kelas II",
+					"capacity"	: 47,
+					"available"	: 23
+				},
+				{
+					"class"	: "Kelas III",
+					"capacity"	: 344,
+					"available"	: 14
+				},
+				{
+					"class"	: "ICU",
+					"capacity"	: 17,
+					"available"	: 5
+				},
+				{
+					"class"	: "PICU",
+					"capacity"	: 6,
+					"available"	: 2
+				},
+				{
+					"class"	: "NICU",
+					"capacity"	: 6,
+					"available"	: 3
+				},
+				{
+					"class"	: "Lainnya",
+					"capacity"	: 151,
+					"available"	: 24
+				}
+			]
+		},
+		{
+			"id"	: 2,
+			"name"	: "RSUD Kota Surakarta",
+			"type"	: "C",
+			"room"	: [
+				{
+					"class"	: "VVIP",
+					"capacity"	: 0,
+					"available"	: 0
+				},
+				{
+					"class"	: "VIP",
+					"capacity"	: 2,
+					"available"	: 0
+				},
+				{
+					"class"	: "Kelas I",
+					"capacity"	: 8,
+					"available"	: 3
+				},
+				{
+					"class"	: "Kelas II",
+					"capacity"	: 24,
+					"available"	: 6
+				},
+				{
+					"class"	: "Kelas III",
+					"capacity"	: 78,
+					"available"	: 37
+				},
+				{
+					"class"	: "ICU",
+					"capacity"	: 8,
+					"available"	: 2
+				},
+				{
+					"class"	: "PICU",
+					"capacity"	: 0,
+					"available"	: 0
+				},
+				{
+					"class"	: "NICU",
+					"capacity"	: 0,
+					"available"	: 0
+				},
+				{
+					"class"	: "Lainnya",
+					"capacity"	: 47,
+					"available"	: 14
+				}
+			]
+		},
+		{
+			"id"	: 3,
+			"name"	: "RS TNI Slamet Riyadi",
+			"type"	: "C",
+			"room"	: [
+				{
+					"class"	: "VVIP",
+					"capacity"	: 0,
+					"available"	: 0
+				},
+				{
+					"class"	: "VIP",
+					"capacity"	: 6,
+					"available"	: 2
+				},
+				{
+					"class"	: "Kelas I",
+					"capacity"	: 12,
+					"available"	: 8
+				},
+				{
+					"class"	: "Kelas II",
+					"capacity"	: 49,
+					"available"	: 13
+				},
+				{
+					"class"	: "Kelas III",
+					"capacity"	: 32,
+					"available"	: 0
+				},
+				{
+					"class"	: "ICU",
+					"capacity"	: 4,
+					"available"	: 3
+				},
+				{
+					"class"	: "PICU",
+					"capacity"	: 0,
+					"available"	: 0
+				},
+				{
+					"class"	: "NICU",
+					"capacity"	: 0,
+					"available"	: 0
+				},
+				{
+					"class"	: "Lainnya",
+					"capacity"	: 21,
+					"available"	: 10
+				}
+			]
+		},
+		{
+			"id"	: 4,
+			"name"	: "RS Panti Waluyo",
+			"type"	: "C",
+			"room"	: [
+				{
+					"class"	: "VVIP",
+					"capacity"	: 24,
+					"available"	: 8
+				},
+				{
+					"class"	: "VIP",
+					"capacity"	: 16,
+					"available"	: 5
+				},
+				{
+					"class"	: "Kelas I",
+					"capacity"	: 39,
+					"available"	: 12
+				},
+				{
+					"class"	: "Kelas II",
+					"capacity"	: 47,
+					"available"	: 19
+				},
+				{
+					"class"	: "Kelas III",
+					"capacity"	: 43,
+					"available"	: 12
+				},
+				{
+					"class"	: "ICU",
+					"capacity"	: 9,
+					"available"	: 0
+				},
+				{
+					"class"	: "PICU",
+					"capacity"	: 0,
+					"available"	: 0
+				},
+				{
+					"class"	: "NICU",
+					"capacity"	: 0,
+					"available"	: 0
+				},
+				{
+					"class"	: "Lainnya",
+					"capacity"	: 22,
+					"available"	: 5
+				}
+			]
+		},
+		{
+			"id"	: 5,
+			"name"	: "RS Dr. Oen",
+			"type"	: "B",
+			"room"	: [
+				{
+					"class"	: "VVIP",
+					"capacity"	: 14,
+					"available"	: 9
+				},
+				{
+					"class"	: "VIP",
+					"capacity"	: 78,
+					"available"	: 24
+				},
+				{
+					"class"	: "Kelas I",
+					"capacity"	: 23,
+					"available"	: 5
+				},
+				{
+					"class"	: "Kelas II",
+					"capacity"	: 37,
+					"available"	: 7
+				},
+				{
+					"class"	: "Kelas III",
+					"capacity"	: 50,
+					"available"	: 3
+				},
+				{
+					"class"	: "ICU",
+					"capacity"	: 7,
+					"available"	: 4
+				},
+				{
+					"class"	: "PICU",
+					"capacity"	: 4,
+					"available"	: 0
+				},
+				{
+					"class"	: "NICU",
+					"capacity"	: 0,
+					"available"	: 0
+				},
+				{
+					"class"	: "Lainnya",
+					"capacity"	: 65,
+					"available"	: 15
+				}
+			]
+		},
+		{
+			"id"	: 6,
+			"name"	: "RS Kasih Ibu",
+			"type"	: "B",
+			"room"	: [
+				{
+					"class"	: "VVIP",
+					"capacity"	: 6,
+					"available"	: 2
+				},
+				{
+					"class"	: "VIP",
+					"capacity"	: 43,
+					"available"	: 22
+				},
+				{
+					"class"	: "Kelas I",
+					"capacity"	: 40,
+					"available"	: 9
+				},
+				{
+					"class"	: "Kelas II",
+					"capacity"	: 43,
+					"available"	: 13
+				},
+				{
+					"class"	: "Kelas III",
+					"capacity"	: 34,
+					"available"	: 6
+				},
+				{
+					"class"	: "ICU",
+					"capacity"	: 11,
+					"available"	: 6
+				},
+				{
+					"class"	: "PICU",
+					"capacity"	: 2,
+					"available"	: 1
+				},
+				{
+					"class"	: "NICU",
+					"capacity"	: 2,
+					"available"	: 1
+				},
+				{
+					"class"	: "Lainnya",
+					"capacity"	: 37,
+					"available"	: 11
+				}
+			]
+		},
+		{
+			"id"	: 7,
+			"name"	: "RS Brayat Minulyo",
+			"type"	: "C",
+			"room"	: [
+				{
+					"class"	: "VVIP",
+					"capacity"	: 12,
+					"available"	: 5
+				},
+				{
+					"class"	: "VIP",
+					"capacity"	: 15,
+					"available"	: 7
+				},
+				{
+					"class"	: "Kelas I",
+					"capacity"	: 12,
+					"available"	: 7
+				},
+				{
+					"class"	: "Kelas II",
+					"capacity"	: 15,
+					"available"	: 2
+				},
+				{
+					"class"	: "Kelas III",
+					"capacity"	: 30,
+					"available"	: 4
+				},
+				{
+					"class"	: "ICU",
+					"capacity"	: 5,
+					"available"	: 2
+				},
+				{
+					"class"	: "PICU",
+					"capacity"	: 1,
+					"available"	: 0
+				},
+				{
+					"class"	: "NICU",
+					"capacity"	: 1,
+					"available"	: 1
+				},
+				{
+					"class"	: "Lainnya",
+					"capacity"	: 31,
+					"available"	: 9
+				}
+			]
+		},
+		{
+			"id"	: 8,
+			"name"	: "RS PKU Muhamadiyah",
+			"type"	: "B",
+			"room"	: [
+				{
+					"class"	: "VVIP",
+					"capacity"	: 32,
+					"available"	: 17
+				},
+				{
+					"class"	: "VIP",
+					"capacity"	: 49,
+					"available"	: 24
+				},
+				{
+					"class"	: "Kelas I",
+					"capacity"	: 74,
+					"available"	: 28
+				},
+				{
+					"class"	: "Kelas II",
+					"capacity"	: 48,
+					"available"	: 21
+				},
+				{
+					"class"	: "Kelas III",
+					"capacity"	: 74,
+					"available"	: 14
+				},
+				{
+					"class"	: "ICU",
+					"capacity"	: 51,
+					"available"	: 6
+				},
+				{
+					"class"	: "PICU",
+					"capacity"	: 2,
+					"available"	: 0
+				},
+				{
+					"class"	: "NICU",
+					"capacity"	: 4,
+					"available"	: 1
+				},
+				{
+					"class"	: "Lainnya",
+					"capacity"	: 65,
+					"available"	: 17
+				}
+			]
+		},
+		{
+			"id"	: 9,
+			"name"	: "RS Kustati",
+			"type"	: "C",
+			"room"	: [
+				{
+					"class"	: "VVIP",
+					"capacity"	: 0,
+					"available"	: 0
+				},
+				{
+					"class"	: "VIP",
+					"capacity"	: 16,
+					"available"	: 4
+				},
+				{
+					"class"	: "Kelas I",
+					"capacity"	: 41,
+					"available"	: 14
+				},
+				{
+					"class"	: "Kelas II",
+					"capacity"	: 65,
+					"available"	: 21
+				},
+				{
+					"class"	: "Kelas III",
+					"capacity"	: 52,
+					"available"	: 23
+				},
+				{
+					"class"	: "ICU",
+					"capacity"	: 6,
+					"available"	: 3
+				},
+				{
+					"class"	: "PICU",
+					"capacity"	: 1,
+					"available"	: 0
+				},
+				{
+					"class"	: "NICU",
+					"capacity"	: 1,
+					"available"	: 0
+				},
+				{
+					"class"	: "Lainnya",
+					"capacity"	: 34,
+					"available"	: 20
+				}
+			]
+		},
+		{
+			"id"	: 10,
+			"name"	: "RS Tri Harsi",
+			"type"	: "D",
+			"room"	: [
+				{
+					"class"	: "VVIP",
+					"capacity"	: 2,
+					"available"	: 0
+				},
+				{
+					"class"	: "VIP",
+					"capacity"	: 7,
+					"available"	: 4
+				},
+				{
+					"class"	: "Kelas I",
+					"capacity"	: 6,
+					"available"	: 3
+				},
+				{
+					"class"	: "Kelas II",
+					"capacity"	: 8,
+					"available"	: 2
+				},
+				{
+					"class"	: "Kelas III",
+					"capacity"	: 15,
+					"available"	: 4
+				},
+				{
+					"class"	: "ICU",
+					"capacity"	: 0,
+					"available"	: 0
+				},
+				{
+					"class"	: "PICU",
+					"capacity"	: 0,
+					"available"	: 0
+				},
+				{
+					"class"	: "NICU",
+					"capacity"	: 0,
+					"available"	: 0
+				},
+				{
+					"class"	: "Lainnya",
+					"capacity"	: 16,
+					"available"	: 8
+				}
+			]
+		},
+		{
+			"id"	: 11,
+			"name"	: "RS Hermina Surakarta",
+			"type"	: "C",
+			"room"	: [
+				{
+					"class"	: "VVIP",
+					"capacity"	: 4,
+					"available"	: 0
+				},
+				{
+					"class"	: "VIP",
+					"capacity"	: 4,
+					"available"	: 1
+				},
+				{
+					"class"	: "Kelas I",
+					"capacity"	: 6,
+					"available"	: 2
+				},
+				{
+					"class"	: "Kelas II",
+					"capacity"	: 12,
+					"available"	: 5
+				},
+				{
+					"class"	: "Kelas III",
+					"capacity"	: 15,
+					"available"	: 3
+				},
+				{
+					"class"	: "ICU",
+					"capacity"	: 1,
+					"available"	: 0
+				},
+				{
+					"class"	: "PICU",
+					"capacity"	: 0,
+					"available"	: 0
+				},
+				{
+					"class"	: "NICU",
+					"capacity"	: 1,
+					"available"	: 0
+				},
+				{
+					"class"	: "Lainnya",
+					"capacity"	: 17,
+					"available"	: 6
+				}
+			]
+		}
+	]
+}

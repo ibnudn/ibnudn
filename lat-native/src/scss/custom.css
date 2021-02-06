@@ -1,0 +1,36 @@
+.bg-teal-200 {
+  background-color: #a6e9d5;
+}
+
+.card .bg-teal-200 {
+  background-color: #a6e9d5;
+}
+
+.bg-teal-700 {
+  background-color: #13795b;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #13795b;
+}
+
+.nav-pills .nav-link {
+  color: #13795b;
+  border-radius: 0.25rem;
+}
+
+table.dataTable thead .sorting:after,
+table.dataTable thead .sorting:before,
+table.dataTable thead .sorting_asc:after,
+table.dataTable thead .sorting_asc:before,
+table.dataTable thead .sorting_asc_disabled:after,
+table.dataTable thead .sorting_asc_disabled:before,
+table.dataTable thead .sorting_desc:after,
+table.dataTable thead .sorting_desc:before,
+table.dataTable thead .sorting_desc_disabled:after,
+table.dataTable thead .sorting_desc_disabled:before {
+  bottom: .5em;
+}
+/*# sourceMappingURL=custom.css.map */

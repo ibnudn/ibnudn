@@ -1,0 +1,38 @@
+@import "functions";
+@import "variables";
+@import "mixins";
+@import "utilities";
+
+.bg-teal-200 {
+  background-color: $teal-200;
+}
+.card .bg-teal-200 {
+  background-color: $teal-200;
+}
+.bg-teal-700 {
+    background-color: $teal-700;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: $teal-700;
+}
+
+.nav-pills .nav-link {
+   color: $teal-700;
+   border-radius: 0.25rem;
+}
+
+table.dataTable thead .sorting:after,
+table.dataTable thead .sorting:before,
+table.dataTable thead .sorting_asc:after,
+table.dataTable thead .sorting_asc:before,
+table.dataTable thead .sorting_asc_disabled:after,
+table.dataTable thead .sorting_asc_disabled:before,
+table.dataTable thead .sorting_desc:after,
+table.dataTable thead .sorting_desc:before,
+table.dataTable thead .sorting_desc_disabled:after,
+table.dataTable thead .sorting_desc_disabled:before {
+bottom: .5em;
+}

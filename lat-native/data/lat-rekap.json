@@ -1,0 +1,58 @@
+{
+	"rekap"	: [
+		{
+			"id"		: 1,
+			"room_name"	: "VVIP",
+			"capacity"	: 98,
+			"available"	: 43
+		},
+		{
+			"id"		: 2,
+			"room_name"	: "VIP",
+			"capacity"	: 368,
+			"available"	: 136
+		},
+		{
+			"id"		: 3,
+			"room_name"	: "Kelas I",
+			"capacity"	: 316,
+			"available"	: 108
+		},
+		{
+			"id"		: 4,
+			"room_name"	: "Kelas II",
+			"capacity"	: 395,
+			"available"	: 142
+		},
+		{
+			"id"		: 5,
+			"room_name"	: "Kelas III",
+			"capacity"	: 767,
+			"available"	: 120
+		},
+		{
+			"id"		: 6,
+			"room_name"	: "ICU",
+			"capacity"	: 73,
+			"available"	: 30
+		},
+		{
+			"id"		: 7,
+			"room_name"	: "PICU",
+			"capacity"	: 16,
+			"available"	: 5
+		},
+		{
+			"id"		: 8,
+			"room_name"	: "NICU",
+			"capacity"	: 15,
+			"available"	: 6
+		},
+		{
+			"id"		: 9,
+			"room_name"	: "Lainnya",
+			"capacity"	: 506,
+			"available"	: 139
+		}
+	]
+}

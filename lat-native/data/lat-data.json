@@ -1,0 +1,88 @@
+[
+	{
+		"id"	: "1",
+		"nama"	: "RSUD dr. Moewardi",
+		"tipe"	: "A",
+		"kamar"	: [
+			{
+				"kelas"	: "VVIP",
+				"jumlah" : 4
+			},
+			{
+				"kelas"	: "VIP",
+				"jumlah" : 132
+			},
+			{
+				"kelas"	: "Kelas I",
+				"jumlah" : 55
+			},
+			{
+				"kelas"	: "Kelas II",
+				"jumlah" : 47
+			},
+			{
+				"kelas"	: "Kelas III",
+				"jumlah" : 344
+			},
+			{
+				"kelas"	: "ICU",
+				"jumlah" : 17
+			},
+			{
+				"kelas"	: "PICU",
+				"jumlah" : 6
+			},
+			{
+				"kelas"	: "NICU",
+				"jumlah" : 6
+			},
+			{
+				"kelas"	: "Lainnya",
+				"jumlah" : 151
+			}
+		]
+	},
+	{
+		"id"	: "2",
+		"nama"	: "RSUD Kota Surakarta",
+		"tipe"	: "D",
+		"kamar"	: [
+			{
+				"kelas"	: "VVIP",
+				"jumlah" : 0
+			},
+			{
+				"kelas"	: "VIP",
+				"jumlah" : 2
+			},
+			{
+				"kelas"	: "Kelas I",
+				"jumlah" : 8
+			},
+			{
+				"kelas"	: "Kelas II",
+				"jumlah" : 24
+			},
+			{
+				"kelas"	: "Kelas III",
+				"jumlah" : 78
+			},
+			{
+				"kelas"	: "ICU",
+				"jumlah" : 8
+			},
+			{
+				"kelas"	: "PICU",
+				"jumlah" : 0
+			},
+			{
+				"kelas"	: "NICU",
+				"jumlah" : 0
+			},
+			{
+				"kelas"	: "Lainnya",
+				"jumlah" : 47
+			}
+		]
+	}
+]
