@@ -3,7 +3,7 @@
 
 body {
 	font-family: 'Indie Flower', cursive !important;
-  background: #C3E7FD; /*CAPE HONEY*/
+  	background: #355C7D;
 	margin: 0px;
 	padding: 0px;
 }
@@ -23,7 +23,7 @@ h4 {
 
 
 .card {
-	color: #013243; /*SHERPA BLUE*/
+	color: #013243;
 	position: absolute;
 	top: 50%;
 	left: 50%;
